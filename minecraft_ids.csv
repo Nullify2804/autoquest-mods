@@ -32,37 +32,37 @@ minecraft:mangrove_planks,,Mundane,None,"Wooden, Planks",Planks,10
 minecraft:bamboo_planks,,Mundane,None,"Wooden, Planks, Bamboo",Planks,9
 minecraft:crimson_planks,Nether,Curious,None,"Wooden, Planks, Hellish",Planks,14
 minecraft:warped_planks,Nether,Curious,None,"Wooden, Planks, Hellish",Planks,14
-minecraft:bamboo_mosaic,,Curious,None,"Wooden, Planks, Mosaic",Planks,18
-minecraft:oak_sapling,,Common,None,"Wooden, Plant,",Saplings,10
-minecraft:spruce_sapling,,Common,None,"Wooden, Plant,",Saplings,10
-minecraft:birch_sapling,,Common,None,"Wooden, Plant,",Saplings,10
-minecraft:jungle_sapling,,Common,None,"Wooden, Plant,",Saplings,10
-minecraft:acacia_sapling,,Common,None,"Wooden, Plant,",Saplings,10
-minecraft:cherry_sapling,,Common,None,"Wooden, Plant,",Saplings,10
-minecraft:dark_oak_sapling,,Common,None,"Wooden, Plant,",Saplings,10
-minecraft:mangrove_propagule,,Common,None,"Wooden, Plant,",Saplings,10
+minecraft:bamboo_mosaic,,Curious,None,"Wooden, Planks, Mosaic",Planks,12
+minecraft:oak_sapling,,Common,None,"Wooden, Plant",Saplings,10
+minecraft:spruce_sapling,,Common,None,"Wooden, Plant",Saplings,10
+minecraft:birch_sapling,,Common,None,"Wooden, Plant",Saplings,10
+minecraft:jungle_sapling,,Common,None,"Wooden, Plant",Saplings,10
+minecraft:acacia_sapling,,Common,None,"Wooden, Plant",Saplings,10
+minecraft:cherry_sapling,,Common,None,"Wooden, Plant",Saplings,10
+minecraft:dark_oak_sapling,,Common,None,"Wooden, Plant",Saplings,10
+minecraft:mangrove_propagule,,Common,None,"Wooden, Plant",Saplings,10
 minecraft:sand,,Mundane,None,"Dirty, Aggregates",Sand,6
 minecraft:red_sand,,Common,None,"Dirty, Aggregates, Red Color",Sand,7
 minecraft:gravel,,Mundane,None,"Dirty, Aggregates",Sand,4
-minecraft:coal_ore,,Mundane,None,"Stony, Ore, Coal",Coal,75
-minecraft:deepslate_coal_ore,,Mundane,None,"Stony, Ore, Coal, Deep",Coal,85
-minecraft:iron_ore,,Uncommon,None,"Stony, Ore, Iron",Iron,400
-minecraft:deepslate_iron_ore,,Uncommon,None,"Stony, Ore, Iron, Deep",Iron,430
-minecraft:copper_ore,,Common,None,"Stony, Ore, Copper",Copper,200
-minecraft:deepslate_copper_ore,,Common,None,"Stony, Ore, Copper, Deep",Copper,220
-minecraft:gold_ore,,Uncommon,None,"Stony, Ore, Golden",Gold,1250
-minecraft:deepslate_gold_ore,,Uncommon,None,"Stony, Ore, Golden, Deep",Gold,1300
+minecraft:coal_ore,,Mundane,None,"Stony, Ore, Coal, Gem",Coal,75
+minecraft:deepslate_coal_ore,,Mundane,None,"Stony, Ore, Coal, Deep, Gem",Coal,85
+minecraft:iron_ore,,Uncommon,None,"Stony, Ore, Iron, Metal",Iron,400
+minecraft:deepslate_iron_ore,,Uncommon,None,"Stony, Ore, Iron, Deep, Metal",Iron,430
+minecraft:copper_ore,,Common,None,"Stony, Ore, Copper, Metal",Copper,200
+minecraft:deepslate_copper_ore,,Common,None,"Stony, Ore, Copper, Deep, Metal",Copper,220
+minecraft:gold_ore,,Uncommon,None,"Stony, Ore, Golden, Metal",Gold,1250
+minecraft:deepslate_gold_ore,,Uncommon,None,"Stony, Ore, Golden, Deep, Metal",Gold,1300
 minecraft:redstone_ore,,Curious,None,"Stony, Ore, Redstone",Redstone,500
 minecraft:deepslate_redstone_ore,,Curious,None,"Stony, Ore, Redstone, Deep",Redstone,600
-minecraft:emerald_ore,,Epic,None,"Stony, Ore, Emerald",Emerald,25000
-minecraft:deepslate_emerald_ore,,Epic,None,"Stony, Ore, Emerald, Deep",Emerald,30000
-minecraft:lapis_ore,,Mundane,None,"Stony, Ore, Lapis",Lapis,350
-minecraft:deepslate_lapis_ore,,Mundane,None,"Stony, Ore, Lapis, Deep",Lapis,400
-minecraft:diamond_ore,,Epic,None,"Stony, Ore, Diamond",Diamond,15500
-minecraft:deepslate_diamond_ore,,Epic,None,"Stony, Ore, Diamond, Deep",Diamond,15000
-minecraft:nether_gold_ore,Nether,Uncommon,None,"Ore, Golden, Hellish",Gold,550
-minecraft:nether_quartz_ore,Nether,Uncommon,None,"Ore, Quartz, Hellish",Quartz,500
-minecraft:ancient_debris,Nether,Mythic,None,"Ore, Netherite, Hellish",Netherite,65000
+minecraft:emerald_ore,,Epic,None,"Stony, Ore, Emerald, Gem",Emerald,25000
+minecraft:deepslate_emerald_ore,,Epic,None,"Stony, Ore, Emerald, Deep, Gem",Emerald,30000
+minecraft:lapis_ore,,Mundane,None,"Stony, Ore, Lapis, Gem",Lapis,350
+minecraft:deepslate_lapis_ore,,Mundane,None,"Stony, Ore, Lapis, Deep, Gem",Lapis,400
+minecraft:diamond_ore,,Epic,None,"Stony, Ore, Diamond, Gem",Diamond,15500
+minecraft:deepslate_diamond_ore,,Epic,None,"Stony, Ore, Diamond, Deep, Gem",Diamond,15000
+minecraft:nether_gold_ore,Nether,Uncommon,None,"Ore, Golden, Hellish, Metal",Gold,550
+minecraft:nether_quartz_ore,Nether,Uncommon,None,"Ore, Quartz, Hellish",Quartz,50
+minecraft:ancient_debris,Nether,Exalted,None,"Ore, Netherite, Hellish",Netherite,65000
 minecraft:coal_block,,Curious,None,"Coal, Compressed",Coal,675
 minecraft:raw_iron_block,,Uncommon,None,"Iron, Raw Ore, Compressed",Iron,2700
 minecraft:raw_copper_block,,Common,None,"Copper, Raw Ore, Compressed",Copper,900
@@ -72,7 +72,7 @@ minecraft:iron_block,,Uncommon,None,"Iron, Ingot, Compressed",Iron,2790
 minecraft:copper_block,,Common,None,"Copper, Ingot, Compressed",Copper,360
 minecraft:gold_block,,Uncommon,None,"Gold, Ingot, Compressed",Copper,11340
 minecraft:diamond_block,,Epic,None,"Diamond, Gem, Compressed",Diamond,135000
-minecraft:netherite_block,,Divine,None,"Diamond, Gem, Compressed",Netherite,2385000
+minecraft:netherite_block,,Divine,None,"Diamond, Gem, Compressed",Netherite,2475000
 minecraft:exposed_copper,,Common,None,"Copper, Decoration",Copper,396
 minecraft:weathered_copper,,Common,None,"Copper, Decoration",Copper,396
 minecraft:oxidized_copper,,Common,None,"Copper, Decoration",Copper,396
@@ -163,9 +163,9 @@ minecraft:wet_sponge,,Rare,None,Wet,Sponge,1550
 minecraft:glass,,Common,None,Transparent,Glass,30
 minecraft:tinted_glass,,Uncommon,None,"Transparent, Black Color",Glass,175
 minecraft:lapis_block,,Curious,None,Compressed,Lapis,500
-minecraft:sandstone,,Common,None,"Bricks, Aggregates",Sand,8
-minecraft:chiseled_sandstone,,Curious,None,"Bricks, Aggregates, Decoration",Sand,12
-minecraft:cut_sandstone,,Curious,None,"Aggregates, Decoration",Sand,10
+minecraft:sandstone,,Mundane,None,"Bricks, Aggregates",Sand,8
+minecraft:chiseled_sandstone,,Common,None,"Bricks, Aggregates, Decoration",Sand,12
+minecraft:cut_sandstone,,Common,None,"Aggregates, Decoration",Sand,10
 minecraft:cobweb,,Curious,None,"Fiber, Trap Component",Cobweb,50
 minecraft:grass,,Mundane,None,"Plant, Natural, Fiber",Plants,2
 minecraft:fern,,Common,None,"Plant, Natural",Plants,6
@@ -218,34 +218,32 @@ minecraft:twisting_vines,Nether,Mundane,None,"Plant, Natural, Shrooms, Hellish, 
 minecraft:sugar_cane,,Mundane,None,"Plant, Natural",Plants,9
 minecraft:kelp,,Mundane,None,"Plant, Natural, Wet",Plants,2
 minecraft:moss_carpet,,Mundane,None,"Plant, Natural, Dirty",Moss,6
-minecraft:pink_petals,,,,,,
+minecraft:pink_petals,,Mundane,None,"Plant, Natural, Flower",Flower,15
 minecraft:moss_block,,Mundane,None,"Plant, Natural, Dirty",Moss,10
-minecraft:hanging_roots,,,,,,
-minecraft:big_dripleaf,,,,,,
-minecraft:small_dripleaf,,,,,,
+minecraft:hanging_roots,,Mundane,None,"Natural, Dirty, Wooden",Roots,2
+minecraft:big_dripleaf,,Common,None,"Plant, Natural, Wet",Dripleaf,10
+minecraft:small_dripleaf,,Common,None,"Plant, Natural, Wet",Dripleaf,20
 minecraft:bamboo,,Mundane,None,"Wooden, Stick",Bamboo,2
-minecraft:oak_slab,,,,,,
-minecraft:spruce_slab,,,,,,
-minecraft:birch_slab,,,,,,
-minecraft:jungle_slab,,,,,,
-minecraft:acacia_slab,,,,,,
-minecraft:cherry_slab,,,,,,
-minecraft:dark_oak_slab,,,,,,
-minecraft:mangrove_slab,,,,,,
-minecraft:bamboo_slab,,,,,,
-minecraft:bamboo_mosaic_slab,,,,,,
-minecraft:crimson_slab,,,,,,
-minecraft:warped_slab,,,,,,
-minecraft:stone_slab,,,,,,
-minecraft:smooth_stone_slab,,,,,,
-minecraft:sandstone_slab,,,,,,
-minecraft:cut_sandstone_slab,,,,,,
-minecraft:petrified_oak_slab,,,,,,
-minecraft:cobblestone_slab,,,,,,
-minecraft:brick_slab,,,,,,
-minecraft:stone_brick_slab,,,,,,
-minecraft:mud_brick_slab,,,,,,
-minecraft:nether_brick_slab,,,,,,
+minecraft:oak_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:spruce_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:birch_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:jungle_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:acacia_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:cherry_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:dark_oak_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:mangrove_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:bamboo_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,4
+minecraft:bamboo_mosaic_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,6
+minecraft:crimson_slab,Nether,Mundane,None,"Wooden, Planks, Slab, Hellish",Planks,6
+minecraft:warped_slab,Nether,Mundane,None,"Wooden, Planks, Slab, Hellish",Planks,6
+minecraft:stone_slab,,Mundane,None,"Stony, Slab",Stone,1
+minecraft:smooth_stone_slab,,Common,None,"Stony, Slab",Stone,3
+minecraft:sandstone_slab,,Mundane,None,"Bricks, Aggregates",Sand,4
+minecraft:cut_sandstone_slab,,Common,None,"Aggregates, Decoration",Sand,5
+minecraft:brick_slab,,Mundane,None,"Bricks, Decoration",Bricks,12
+minecraft:stone_brick_slab,,Common,None,"Stony, Bricks, Decoration, Slab",Stone,6
+minecraft:mud_brick_slab,,Mundane,None,"Dirty, Wet, Bricks, Slab",Dirt,3
+minecraft:nether_brick_slab,Nether,Mundane,None,"Stony, Bricks, Decoration, Hellish, Slab",Nether Bricks,4
 minecraft:quartz_slab,,,,,,
 minecraft:red_sandstone_slab,,,,,,
 minecraft:cut_red_sandstone_slab,,,,,,
@@ -256,8 +254,8 @@ minecraft:dark_prismarine_slab,,,,,,
 minecraft:smooth_quartz,,,,,,
 minecraft:smooth_red_sandstone,,,,,,
 minecraft:smooth_sandstone,,,,,,
-minecraft:smooth_stone,,,,,,
-minecraft:bricks,,,,,,
+minecraft:smooth_stone,,Common,None,"Stony, Decoration",Stone,6
+minecraft:bricks,,Mundane,None,"Bricks, Decoration",Bricks,24
 minecraft:bookshelf,,,,,,
 minecraft:chiseled_bookshelf,,,,,,
 minecraft:decorated_pot,,,,,,
@@ -281,7 +279,7 @@ minecraft:snow,,,,,,
 minecraft:ice,,,,,,
 minecraft:snow_block,,,,,,
 minecraft:cactus,,,,,,
-minecraft:clay,,,,,,
+minecraft:clay,,Mundane,None,"Dirty, Natural, Wet, Compressed",Clay,20
 minecraft:jukebox,,,,,,
 minecraft:oak_fence,,,,,,
 minecraft:spruce_fence,,,,,,
@@ -297,7 +295,7 @@ minecraft:warped_fence,,,,,,
 minecraft:pumpkin,,,,,,
 minecraft:carved_pumpkin,,,,,,
 minecraft:jack_o_lantern,,,,,,
-minecraft:netherrack,,,,,,
+minecraft:netherrack,Nether,Mundane,None,"Hellish, Stony",Netherrack,1
 minecraft:soul_sand,,,,,,
 minecraft:soul_soil,,,,,,
 minecraft:basalt,,,,,,
@@ -312,12 +310,12 @@ minecraft:infested_mossy_stone_bricks,,,,,,
 minecraft:infested_cracked_stone_bricks,,,,,,
 minecraft:infested_chiseled_stone_bricks,,,,,,
 minecraft:infested_deepslate,,,,,,
-minecraft:stone_bricks,,,,,,
+minecraft:stone_bricks,,Common,None,"Stony, Bricks, Decoration",Stone,6
 minecraft:mossy_stone_bricks,,,,,,
 minecraft:cracked_stone_bricks,,,,,,
 minecraft:chiseled_stone_bricks,,,,,,
 minecraft:packed_mud,,,,,,
-minecraft:mud_bricks,,,,,,
+minecraft:mud_bricks,,Mundane,None,"Dirty, Wet, Bricks",Dirt,7
 minecraft:deepslate_bricks,,,,,,
 minecraft:cracked_deepslate_bricks,,,,,,
 minecraft:deepslate_tiles,,,,,,
@@ -338,7 +336,7 @@ minecraft:stone_brick_stairs,,,,,,
 minecraft:mud_brick_stairs,,,,,,
 minecraft:mycelium,,,,,,
 minecraft:lily_pad,,,,,,
-minecraft:nether_bricks,,,,,,
+minecraft:nether_bricks,Nether,Mundane,None,"Stony, Bricks, Decoration, Hellish",Nether Bricks,8
 minecraft:cracked_nether_bricks,,,,,,
 minecraft:chiseled_nether_bricks,,,,,,
 minecraft:nether_brick_fence,,,,,,
@@ -394,7 +392,7 @@ minecraft:anvil,,,,,,
 minecraft:chipped_anvil,,,,,,
 minecraft:damaged_anvil,,,,,,
 minecraft:chiseled_quartz_block,,,,,,
-minecraft:quartz_block,,,,,,
+minecraft:quartz_block,,Curious,None,"Compressed, Quartz",Quartz,160
 minecraft:quartz_bricks,,,,,,
 minecraft:quartz_pillar,,,,,,
 minecraft:quartz_stairs,,,,,,
@@ -755,21 +753,21 @@ minecraft:flint_and_steel,,,,,,
 minecraft:apple,,,,,,
 minecraft:bow,,,,,,
 minecraft:arrow,,,,,,
-minecraft:coal,,,,,,
-minecraft:charcoal,,,,,,
-minecraft:diamond,,,,,,
-minecraft:emerald,,,,,,
-minecraft:lapis_lazuli,,,,,,
-minecraft:quartz,,,,,,
+minecraft:coal,,Mundane,None,"Gem, Coal",Coal,70
+minecraft:charcoal,,Mundane,None,Coal,Coal,45
+minecraft:diamond,,Epic,None,Gem Diamond,Diamond,14500
+minecraft:emerald,,Epic,None,"Emerald, Gem",Emerald,100
+minecraft:lapis_lazuli,,Mundane,None,"Lapis, Gem",Lapis,45
+minecraft:quartz,,Common,None,Quartz,Quartz,40
 minecraft:amethyst_shard,,Curious,None,"Gem, Crystal",Amethyst,40
-minecraft:raw_iron,,,,,,
-minecraft:iron_ingot,,,,,,
-minecraft:raw_copper,,,,,,
-minecraft:copper_ingot,,,,,,
-minecraft:raw_gold,,,,,,
-minecraft:gold_ingot,,,,,,
-minecraft:netherite_ingot,,,,,,
-minecraft:netherite_scrap,,,,,,
+minecraft:raw_iron,,Uncommon,None,"Metal, Iron",Iron,250
+minecraft:iron_ingot,,Uncommon,None,"Metal, Iron",Iron,300
+minecraft:raw_copper,,Common,None,"Copper, Metal",Copper,45
+minecraft:copper_ingot,,Common,None,"Copper, Metal",Copper,50
+minecraft:raw_gold,,Uncommon,None,"Golden, Metal",Gold,1125
+minecraft:gold_ingot,,Uncommon,None,"Golden, Metal",Gold,1200
+minecraft:netherite_ingot,Nether,Mythic,None,"Netherite, Hellish",Netherite,275000
+minecraft:netherite_scrap,Nether,Exalted,None,"Netherite, Hellish",Netherite,65000
 minecraft:wooden_sword,,,,,,
 minecraft:wooden_shovel,,,,,,
 minecraft:wooden_pickaxe,,,,,,
@@ -874,8 +872,8 @@ minecraft:cod_bucket,,,,,,
 minecraft:tropical_fish_bucket,,,,,,
 minecraft:axolotl_bucket,,,,,,
 minecraft:tadpole_bucket,,,,,,
-minecraft:brick,,,,,,
-minecraft:clay_ball,,,,,,
+minecraft:brick,,Mundane,None,Bricks,Bricks,6
+minecraft:clay_ball,,Mundane,None,"Dirty, Natural, Wet",Clay,5
 minecraft:dried_kelp_block,,,,,,
 minecraft:paper,,,,,,
 minecraft:book,,,,,,
@@ -1062,7 +1060,7 @@ minecraft:pumpkin_pie,,,,,,
 minecraft:firework_rocket,,,,,,
 minecraft:firework_star,,,,,,
 minecraft:enchanted_book,,,,,,
-minecraft:nether_brick,,,,,,
+minecraft:nether_brick,Nether,Mundane,None,"Hellish, Bricks",Nether Bricks,2
 minecraft:prismarine_shard,,,,,,
 minecraft:prismarine_crystals,,,,,,
 minecraft:rabbit,,,,,,
