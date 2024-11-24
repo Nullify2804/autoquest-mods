@@ -223,7 +223,7 @@ minecraft:moss_block,,Mundane,None,"Plant, Natural, Dirty",Moss,10
 minecraft:hanging_roots,,Mundane,None,"Natural, Dirty, Wooden",Roots,2
 minecraft:big_dripleaf,,Common,None,"Plant, Natural, Wet",Dripleaf,10
 minecraft:small_dripleaf,,Common,None,"Plant, Natural, Wet",Dripleaf,20
-minecraft:bamboo,,Mundane,None,"Wooden, Stick",Bamboo,1
+minecraft:bamboo,,Mundane,None,"Wooden, Stick",Bamboo,2
 minecraft:oak_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
 minecraft:spruce_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
 minecraft:birch_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
