@@ -799,14 +799,14 @@ minecraft:netherite_pickaxe,,,,,,
 minecraft:netherite_axe,,,,,,
 minecraft:netherite_hoe,,,,,,
 minecraft:stick,,Mundane,None,"Wooden, Stick",Stick,2
-minecraft:bowl,,,,,,
-minecraft:mushroom_stew,,,,,,
+minecraft:bowl,,Mundane,None,Wooden,Wood,5
+minecraft:mushroom_stew,,Mundane,None,"Meal, Cooked",Stew,55
 minecraft:string,,,,,,
 minecraft:feather,,,,,,
 minecraft:gunpowder,,,,,,
 minecraft:wheat_seeds,,,,,,
-minecraft:wheat,,,,,,
-minecraft:bread,,,,,,
+minecraft:wheat,,Mundane,None,"Grain, Natural",Wheat,10
+minecraft:bread,,Mundane,None,"Vegetarian, Grain, Baked",Wheat,30
 minecraft:leather_helmet,,Mundane,Armor,"Leather, Helmet, Armor",Leather,175
 minecraft:leather_chestplate,,Mundane,Armor,"Leather, Chestplate, Armor",Leather,280
 minecraft:leather_leggings,,Mundane,Armor,"Leather, Leggings, Armor",Leather,245
@@ -832,8 +832,8 @@ minecraft:netherite_chestplate,,,,,,
 minecraft:netherite_leggings,,,,,,
 minecraft:netherite_boots,,,,,,
 minecraft:flint,,,,,,
-minecraft:porkchop,,,,,,
-minecraft:cooked_porkchop,,,,,,
+minecraft:porkchop,,Mundane,,"Raw, Meat, Cooking Ingredient",Porkchop,
+minecraft:cooked_porkchop,,Common,,"Cooked, Meat",Porkchop,
 minecraft:painting,,,,,,
 minecraft:golden_apple,,,,,,
 minecraft:enchanted_golden_apple,,,,,,
@@ -886,12 +886,12 @@ minecraft:fishing_rod,,,,,,
 minecraft:clock,,,,,,
 minecraft:spyglass,,,,,,
 minecraft:glowstone_dust,,,,,,
-minecraft:cod,,,,,,
-minecraft:salmon,,,,,,
-minecraft:tropical_fish,,,,,,
-minecraft:pufferfish,,,,,,
-minecraft:cooked_cod,,,,,,
-minecraft:cooked_salmon,,,,,,
+minecraft:cod,,Mundane,None,"Raw, Meat, Cooking Ingredient",Fish,10
+minecraft:salmon,,Mundane,None,"Raw, Meat, Cooking Ingredient",Fish,10
+minecraft:tropical_fish,,Mundane,None,"Raw, Meat",Fish,5
+minecraft:pufferfish,,Mundane,None,"Raw, Meat",Fish,25
+minecraft:cooked_cod,,Common,None,"Cooked, Meat",Fish,25
+minecraft:cooked_salmon,,Common,None,"Cooked, Meat",Fish,30
 minecraft:ink_sac,,,,,,
 minecraft:glow_ink_sac,,,,,,
 minecraft:cocoa_beans,,,,,,
@@ -914,7 +914,7 @@ minecraft:black_dye,,,,,,
 minecraft:bone_meal,,,,,,
 minecraft:bone,,,,,,
 minecraft:sugar,,,,,,
-minecraft:cake,,,,,,
+minecraft:cake,,Curious,None,"Vegetarian, Baked, Meal",Cake,
 minecraft:white_bed,,,,,,
 minecraft:orange_bed,,,,,,
 minecraft:magenta_bed,,,,,,
@@ -934,14 +934,14 @@ minecraft:black_bed,,,,,,
 minecraft:cookie,,,,,,
 minecraft:filled_map,,,,,,
 minecraft:shears,,,,,,
-minecraft:melon_slice,,,,,,
+minecraft:melon_slice,,Mundane,None,Vegetarian,Melon,3
 minecraft:dried_kelp,,,,,,
 minecraft:pumpkin_seeds,,,,,,
 minecraft:melon_seeds,,,,,,
-minecraft:beef,,,,,,
-minecraft:cooked_beef,,,,,,
-minecraft:chicken,,,,,,
-minecraft:cooked_chicken,,,,,,
+minecraft:beef,,Mundane,None,"Raw, Meat, Cooking Ingredient",Beef,20
+minecraft:cooked_beef,,Common,None,"Cooked, Meat",Beef,45
+minecraft:chicken,,Mundane,None,"Raw, Meat, Cooking Ingredient",Chicken,10
+minecraft:cooked_chicken,,Common,None,"Cooked, Meat",Chicken,35
 minecraft:rotten_flesh,,,,,,
 minecraft:ender_pearl,,,,,,
 minecraft:blaze_rod,,,,,,
@@ -1042,10 +1042,10 @@ minecraft:written_book,,,,,,
 minecraft:item_frame,,,,,,
 minecraft:glow_item_frame,,,,,,
 minecraft:flower_pot,,,,,,
-minecraft:carrot,,,,,,
-minecraft:potato,,,,,,
-minecraft:baked_potato,,,,,,
-minecraft:poisonous_potato,,,,,,
+minecraft:carrot,,Mundane,None,"Vegetarian, Cooking Ingredient",Carrot,10
+minecraft:potato,,Mundane,None,"Vegetarian, Cooking Ingredient",Potato,5
+minecraft:baked_potato,,Common,None,"Vegetarian, Baked",Potato,25
+minecraft:poisonous_potato,,Curious,None,"Vegetarian, Poisonous",Potato,10
 minecraft:map,,,,,,
 minecraft:golden_carrot,,,,,,
 minecraft:skeleton_skull,,,,,,
@@ -1063,11 +1063,11 @@ minecraft:enchanted_book,,,,,,
 minecraft:nether_brick,Nether,Mundane,None,"Hellish, Bricks",Nether Bricks,2
 minecraft:prismarine_shard,,,,,,
 minecraft:prismarine_crystals,,,,,,
-minecraft:rabbit,,,,,,
-minecraft:cooked_rabbit,,,,,,
-minecraft:rabbit_stew,,,,,,
+minecraft:rabbit,,Mundane,None,"Raw, Meat, Cooking Ingredient",Rabbit,20
+minecraft:cooked_rabbit,,Common,None,"Cooked, Meat",Rabbit,30
+minecraft:rabbit_stew,,Uncommon,None,"Cooked, Meat",Rabbit,60
 minecraft:rabbit_foot,,,,,,
-minecraft:rabbit_hide,,,,,,
+minecraft:rabbit_hide,,,,,Leather,
 minecraft:armor_stand,,,,,,
 minecraft:iron_horse_armor,,,,,,
 minecraft:golden_horse_armor,,,,,,
@@ -1076,8 +1076,8 @@ minecraft:leather_horse_armor,,,,,,
 minecraft:lead,,,,,,
 minecraft:name_tag,,,,,,
 minecraft:command_block_minecart,,,,,,
-minecraft:mutton,,,,,,
-minecraft:cooked_mutton,,,,,,
+minecraft:mutton,,Mundane,None,"Raw, Meat, Cooking Ingredient",Mutton,15
+minecraft:cooked_mutton,,Common,None,"Cooked, Meat",Mutton,35
 minecraft:white_banner,,,,,,
 minecraft:orange_banner,,,,,,
 minecraft:magenta_banner,,,,,,
@@ -1099,7 +1099,7 @@ minecraft:chorus_fruit,,,,,,
 minecraft:popped_chorus_fruit,,,,,,
 minecraft:torchflower_seeds,,,,,,
 minecraft:pitcher_pod,,,,,,
-minecraft:beetroot,,,,,,
+minecraft:beetroot,,Mundane,None,Vegetarian,Beetroot,5
 minecraft:beetroot_seeds,,,,,,
 minecraft:beetroot_soup,,,,,,
 minecraft:dragon_breath,,,,,,
@@ -1135,7 +1135,7 @@ minecraft:phantom_membrane,,,,,,
 minecraft:nautilus_shell,,,,,,
 minecraft:heart_of_the_sea,,,,,,
 minecraft:crossbow,,,,,,
-minecraft:suspicious_stew,,,,,,
+minecraft:suspicious_stew,,Curious,None,"Suspicious, Vegetarian, Meal",Stew,75
 minecraft:loom,,,,,,
 minecraft:flower_banner_pattern,,,,,,
 minecraft:creeper_banner_pattern,,,,,,
@@ -1156,15 +1156,15 @@ minecraft:stonecutter,,,,,,
 minecraft:bell,,,,,,
 minecraft:lantern,,,,,,
 minecraft:soul_lantern,,,,,,
-minecraft:sweet_berries,,,,,,
-minecraft:glow_berries,,,,,,
+minecraft:sweet_berries,,Mundane,None,"Berry, Natural",Berry,5
+minecraft:glow_berries,,Mundane,None,"Berry, Natural",Berry,5
 minecraft:campfire,,,,,,
 minecraft:soul_campfire,,,,,,
 minecraft:shroomlight,,,,,,
 minecraft:honeycomb,,,,,,
 minecraft:bee_nest,,,,,,
 minecraft:beehive,,,,,,
-minecraft:honey_bottle,,,,,,
+minecraft:honey_bottle,,Common,None,"Anti-Venom, Honey, Bottle",Honey,65
 minecraft:honeycomb_block,,,,,,
 minecraft:lodestone,,,,,,
 minecraft:crying_obsidian,,,,,,
