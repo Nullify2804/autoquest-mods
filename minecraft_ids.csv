@@ -1,4 +1,3 @@
-minecraft:air,Attributes[],Rarity,Enchantement,Tags[],Item Pool,Value
 minecraft:stone,,Mundane,None,Stony,Stone,3
 minecraft:granite,,Mundane,None,Stony,Stone,4
 minecraft:polished_granite,,Common,None,"Stony, Polished",Stone,5
@@ -225,18 +224,18 @@ minecraft:hanging_roots,,Mundane,None,"Natural, Dirty, Wooden",Roots,2
 minecraft:big_dripleaf,,Common,None,"Plant, Natural, Wet",Dripleaf,10
 minecraft:small_dripleaf,,Common,None,"Plant, Natural, Wet",Dripleaf,20
 minecraft:bamboo,,Mundane,None,"Wooden, Stick",Bamboo,2
-minecraft:oak_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
-minecraft:spruce_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
-minecraft:birch_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
-minecraft:jungle_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
-minecraft:acacia_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
-minecraft:cherry_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
-minecraft:dark_oak_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
-minecraft:mangrove_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
-minecraft:bamboo_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
-minecraft:bamboo_mosaic_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
-minecraft:crimson_slab,Nether,Mundane,None,"Wooden, Planks, Slab, Hellish",Planks,3
-minecraft:warped_slab,Nether,Mundane,None,"Wooden, Planks, Slab, Hellish",Planks,3
+minecraft:oak_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:spruce_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:birch_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:jungle_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:acacia_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:cherry_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:dark_oak_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:mangrove_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
+minecraft:bamboo_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,4
+minecraft:bamboo_mosaic_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,6
+minecraft:crimson_slab,Nether,Mundane,None,"Wooden, Planks, Slab, Hellish",Planks,6
+minecraft:warped_slab,Nether,Mundane,None,"Wooden, Planks, Slab, Hellish",Planks,6
 minecraft:stone_slab,,Mundane,None,"Stony, Slab",Stone,1
 minecraft:smooth_stone_slab,,Common,None,"Stony, Slab",Stone,3
 minecraft:sandstone_slab,,Mundane,None,"Bricks, Aggregates",Sand,4
@@ -245,7 +244,7 @@ minecraft:brick_slab,,Mundane,None,"Bricks, Decoration",Bricks,12
 minecraft:stone_brick_slab,,Common,None,"Stony, Bricks, Decoration, Slab",Stone,6
 minecraft:mud_brick_slab,,Mundane,None,"Dirty, Wet, Bricks, Slab",Dirt,3
 minecraft:nether_brick_slab,Nether,Mundane,None,"Stony, Bricks, Decoration, Hellish, Slab",Nether Bricks,4
-minecraft:quartz_slab,,Curious,None,"Decoration, Slab, Quartz",Quartz,80
+minecraft:quartz_slab,,,,,,
 minecraft:red_sandstone_slab,,,,,,
 minecraft:cut_red_sandstone_slab,,,,,,
 minecraft:purpur_slab,,,,,,
@@ -484,6 +483,8 @@ minecraft:red_sandstone,,,,,,
 minecraft:chiseled_red_sandstone,,,,,,
 minecraft:cut_red_sandstone,,,,,,
 minecraft:red_sandstone_stairs,,,,,,
+minecraft:repeating_command_block,,,,,,
+minecraft:chain_command_block,,,,,,
 minecraft:magma_block,,,,,,
 minecraft:nether_wart_block,,,,,,
 minecraft:warped_wart_block,,,,,,
@@ -752,7 +753,6 @@ minecraft:flint_and_steel,,,,,,
 minecraft:apple,,,,,,
 minecraft:bow,,,,,,
 minecraft:arrow,,,,,,
-minecraft:air,Marker,Marker:Ingots,,,,
 minecraft:coal,,Mundane,None,"Gem, Coal",Coal,30
 minecraft:charcoal,,Mundane,None,Coal,Coal,25
 minecraft:diamond,,Epic,None,Gem Diamond,Diamond,14500
@@ -768,27 +768,27 @@ minecraft:raw_gold,,Uncommon,None,"Golden, Metal",Gold,1125
 minecraft:gold_ingot,,Uncommon,None,"Golden, Metal",Gold,1200
 minecraft:netherite_ingot,Nether,Mythic,None,"Netherite, Hellish",Netherite,275000
 minecraft:netherite_scrap,Nether,Exalted,None,"Netherite, Hellish",Netherite,65000
-minecraft:wooden_sword,,Mundane,Melee,"Wooden, Sword, Weapon",Wood,22
+minecraft:wooden_sword,,Mundane,Sword,"Wooden, Sword, Weapon",Wood,22
 minecraft:wooden_shovel,,Mundane,Tool,"Wooden, Shovel, Tool",Wood,14
 minecraft:wooden_pickaxe,,Mundane,Tool,"Wooden, Pickaxe, Tool",Wood,34
 minecraft:wooden_axe,,Mundane,Tool,"Wooden, Axe, Weapon, Tool",Wood,34
 minecraft:wooden_hoe,,Mundane,Tool,"Wooden, Hoe, Tool",Wood,24
-minecraft:stone_sword,,Common,Melee,"Stony, Sword, Weapon",Stone,4
+minecraft:stone_sword,,Common,Sword,"Stony, Sword, Weapon",Stone,4
 minecraft:stone_shovel,,Common,Tool,"Stony, Shovel, Tool",Stone,5
 minecraft:stone_pickaxe,,Common,Tool,"Stony, Pickaxe, Tool",Stone,7
 minecraft:stone_axe,,Common,Tool,"Stony, Axe, Weapon, Tool",Stone,7
 minecraft:stone_hoe,,Common,Tool,"Stony, Hoe, Tool",Stone,5
-minecraft:golden_sword,,Uncommon,Melee,"Golden, Metal, Sword, Weapon",Gold,"2642,2"
+minecraft:golden_sword,,Uncommon,Sword,"Golden, Metal, Sword, Weapon",Gold,"2642,2"
 minecraft:golden_shovel,,Uncommon,Tool,"Golden, Metal, Shovel, Tool",Gold,"1324,4"
 minecraft:golden_pickaxe,,Uncommon,Tool,"Golden, Metal, Pickaxe, Tool",Gold,"3964,4"
 minecraft:golden_axe,,Uncommon,Tool,"Golden, Metal, Axe, Weapon, Tool",Gold,"3964,4"
 minecraft:golden_hoe,,Uncommon,Tool,"Golden, Metal, Hoe, Tool",Gold,"2644,4"
-minecraft:iron_sword,,Common,Melee,"Metal, Iron, Sword, Weapon",Iron,772
-minecraft:iron_shovel,,Common,Tool,"Iron, Metal, Shovel, Tool",Iron,389
-minecraft:iron_pickaxe,,Common,Tool,"Iron, Metal, Pickaxe, Tool",Iron,1159
-minecraft:iron_axe,,Common,Tool,"Iron, Metal, Axe, Weapon, Tool",Iron,1159
-minecraft:iron_hoe,,Common,Tool,"Iron, Metal, Hoe, Tool",Iron,774
-minecraft:diamond_sword,,Epic,Melee,"Gem, Crystal, Sword, Weapon",Diamond,"31902,2"
+minecraft:iron_sword,,Uncommon,Sword,"Metal, Iron, Sword, Weapon",Iron,772
+minecraft:iron_shovel,,Uncommon,Tool,"Iron, Metal, Shovel, Tool",Iron,389
+minecraft:iron_pickaxe,,Uncommon,Tool,"Iron, Metal, Pickaxe, Tool",Iron,1159
+minecraft:iron_axe,,Uncommon,Tool,"Iron, Metal, Axe, Weapon, Tool",Iron,1159
+minecraft:iron_hoe,,Uncommon,Tool,"Iron, Metal, Hoe, Tool",Iron,774
+minecraft:diamond_sword,,Epic,Sword,"Gem, Crystal, Sword, Weapon",Diamond,"31902,2"
 minecraft:diamond_shovel,,Epic,Tool,"Gem, Crystal, Shovel, Tool",Diamond,"15954,4"
 minecraft:diamond_pickaxe,,Epic,Tool,"Gem, Crystal, Pickaxe, Tool",Diamond,"47854,4"
 minecraft:diamond_axe,,Epic,Tool,"Gem, Crystal, Axe, Tool, Weapon",Diamond,"47854,4"
@@ -799,14 +799,14 @@ minecraft:netherite_pickaxe,,,,,,
 minecraft:netherite_axe,,,,,,
 minecraft:netherite_hoe,,,,,,
 minecraft:stick,,Mundane,None,"Wooden, Stick",Stick,2
-minecraft:bowl,,,,,,
-minecraft:mushroom_stew,,,,,,
+minecraft:bowl,,Mundane,None,Wooden,Wood,5
+minecraft:mushroom_stew,,Mundane,None,"Meal, Cooked",Stew,55
 minecraft:string,,,,,,
 minecraft:feather,,,,,,
 minecraft:gunpowder,,,,,,
 minecraft:wheat_seeds,,,,,,
-minecraft:wheat,,,,,,
-minecraft:bread,,,,,,
+minecraft:wheat,,Mundane,None,"Grain, Natural",Wheat,10
+minecraft:bread,,Mundane,None,"Vegetarian, Grain, Baked",Wheat,30
 minecraft:leather_helmet,,Mundane,Armor,"Leather, Helmet, Armor",Leather,192
 minecraft:leather_chestplate,,Mundane,Armor,"Leather, Chestplate, Armor",Leather,308
 minecraft:leather_leggings,,Mundane,Armor,"Leather, Leggings, Armor",Leather,270
@@ -815,11 +815,11 @@ minecraft:chainmail_helmet,,Common,Armor,"Chain, Helmet, Armor",Chain,440
 minecraft:chainmail_chestplate,,Common,Armor,"Chain, Chestplate, Armor",Chain,704
 minecraft:chainmail_leggings,,Common,Armor,"Chain, Leggings, Armor",Chain,616
 minecraft:chainmail_boots,,Common,Armor,"Chain, Boots, Armor",Chain,352
-minecraft:iron_helmet,,Common,Armor,"Iron, Metal, Helmet, Armor",Iron,1925
-minecraft:iron_chestplate,,Common,Armor,"Iron, Metal, Chestplate, Armor",Iron,3080
-minecraft:iron_leggings,,Common,Armor,"Iron, Metal, Leggings, Armor",Iron,2695
-minecraft:iron_boots,,Common,Armor,"Iron, Metal, Boots, Armor",Iron,1540
-minecraft:diamond_helmet,,Epic,Armor,"Gem, Crystal, Helmet, Armor",Diamond,63800
+minecraft:iron_helmet,,Uncommon,Armor,"Iron, Metal, Helmet, Armor",Iron,1925
+minecraft:iron_chestplate,,Uncommon,Armor,"Iron, Metal, Chestplate, Armor",Iron,3080
+minecraft:iron_leggings,,Uncommon,Armor,"Iron, Metal, Leggings, Armor",Iron,2695
+minecraft:iron_boots,,Uncommon,Armor,"Iron, Metal, Boots, Armor",Iron,1540
+minecraft:diamond_helmet,,Epic,Armor,"Gem, Crystal, Helmet, Armor",Diamond,79750
 minecraft:diamond_chestplate,,Epic,Armor,"Gem, Crystal, Chestplate, Armor",Diamond,127600
 minecraft:diamond_leggings,,Epic,Armor,"Gem, Crystal, Leggings, Armor",Diamond,111650
 minecraft:diamond_boots,,Epic,Armor,"Gem, Crystal, Boots, Armor",Diamond,63800
@@ -832,8 +832,8 @@ minecraft:netherite_chestplate,,,,,,
 minecraft:netherite_leggings,,,,,,
 minecraft:netherite_boots,,,,,,
 minecraft:flint,,,,,,
-minecraft:porkchop,,,,,,
-minecraft:cooked_porkchop,,,,,,
+minecraft:porkchop,,Mundane,None,"Raw, Meat, Cooking Ingredient",Porkchop,20
+minecraft:cooked_porkchop,,Common,None,"Cooked, Meat",Porkchop,45
 minecraft:painting,,,,,,
 minecraft:golden_apple,,,,,,
 minecraft:enchanted_golden_apple,,,,,,
@@ -886,12 +886,12 @@ minecraft:fishing_rod,,,,,,
 minecraft:clock,,,,,,
 minecraft:spyglass,,,,,,
 minecraft:glowstone_dust,,,,,,
-minecraft:cod,,,,,,
-minecraft:salmon,,,,,,
-minecraft:tropical_fish,,,,,,
-minecraft:pufferfish,,,,,,
-minecraft:cooked_cod,,,,,,
-minecraft:cooked_salmon,,,,,,
+minecraft:cod,,Mundane,None,"Raw, Meat, Cooking Ingredient",Fish,10
+minecraft:salmon,,Mundane,None,"Raw, Meat, Cooking Ingredient",Fish,10
+minecraft:tropical_fish,,Mundane,None,"Raw, Meat",Fish,5
+minecraft:pufferfish,,Mundane,None,"Raw, Meat",Fish,25
+minecraft:cooked_cod,,Common,None,"Cooked, Meat",Fish,25
+minecraft:cooked_salmon,,Common,None,"Cooked, Meat",Fish,30
 minecraft:ink_sac,,,,,,
 minecraft:glow_ink_sac,,,,,,
 minecraft:cocoa_beans,,,,,,
@@ -914,7 +914,7 @@ minecraft:black_dye,,,,,,
 minecraft:bone_meal,,,,,,
 minecraft:bone,,,,,,
 minecraft:sugar,,,,,,
-minecraft:cake,,,,,,
+minecraft:cake,,Curious,None,"Vegetarian, Baked, Meal",Cake,
 minecraft:white_bed,,,,,,
 minecraft:orange_bed,,,,,,
 minecraft:magenta_bed,,,,,,
@@ -934,14 +934,14 @@ minecraft:black_bed,,,,,,
 minecraft:cookie,,,,,,
 minecraft:filled_map,,,,,,
 minecraft:shears,,,,,,
-minecraft:melon_slice,,,,,,
+minecraft:melon_slice,,Mundane,None,Vegetarian,Melon,3
 minecraft:dried_kelp,,,,,,
 minecraft:pumpkin_seeds,,,,,,
 minecraft:melon_seeds,,,,,,
-minecraft:beef,,,,,,
-minecraft:cooked_beef,,,,,,
-minecraft:chicken,,,,,,
-minecraft:cooked_chicken,,,,,,
+minecraft:beef,,Mundane,None,"Raw, Meat, Cooking Ingredient",Beef,20
+minecraft:cooked_beef,,Common,None,"Cooked, Meat",Beef,45
+minecraft:chicken,,Mundane,None,"Raw, Meat, Cooking Ingredient",Chicken,10
+minecraft:cooked_chicken,,Common,None,"Cooked, Meat",Chicken,35
 minecraft:rotten_flesh,,,,,,
 minecraft:ender_pearl,,,,,,
 minecraft:blaze_rod,,,,,,
@@ -1042,10 +1042,10 @@ minecraft:written_book,,,,,,
 minecraft:item_frame,,,,,,
 minecraft:glow_item_frame,,,,,,
 minecraft:flower_pot,,,,,,
-minecraft:carrot,,,,,,
-minecraft:potato,,,,,,
-minecraft:baked_potato,,,,,,
-minecraft:poisonous_potato,,,,,,
+minecraft:carrot,,Mundane,None,"Vegetarian, Cooking Ingredient",Carrot,10
+minecraft:potato,,Mundane,None,"Vegetarian, Cooking Ingredient",Potato,5
+minecraft:baked_potato,,Common,None,"Vegetarian, Baked",Potato,25
+minecraft:poisonous_potato,,Curious,None,"Vegetarian, Poisonous",Potato,10
 minecraft:map,,,,,,
 minecraft:golden_carrot,,,,,,
 minecraft:skeleton_skull,,,,,,
@@ -1063,11 +1063,11 @@ minecraft:enchanted_book,,,,,,
 minecraft:nether_brick,Nether,Mundane,None,"Hellish, Bricks",Nether Bricks,2
 minecraft:prismarine_shard,,,,,,
 minecraft:prismarine_crystals,,,,,,
-minecraft:rabbit,,,,,,
-minecraft:cooked_rabbit,,,,,,
-minecraft:rabbit_stew,,,,,,
+minecraft:rabbit,,Mundane,None,"Raw, Meat, Cooking Ingredient",Rabbit,20
+minecraft:cooked_rabbit,,Common,None,"Cooked, Meat",Rabbit,30
+minecraft:rabbit_stew,,Uncommon,None,"Cooked, Meat",Rabbit,60
 minecraft:rabbit_foot,,,,,,
-minecraft:rabbit_hide,,,,,,
+minecraft:rabbit_hide,,Mundane,None,"Leather, Natural",Leather,8.75
 minecraft:armor_stand,,,,,,
 minecraft:iron_horse_armor,,,,,,
 minecraft:golden_horse_armor,,,,,,
@@ -1076,8 +1076,8 @@ minecraft:leather_horse_armor,,,,,,
 minecraft:lead,,,,,,
 minecraft:name_tag,,,,,,
 minecraft:command_block_minecart,,,,,,
-minecraft:mutton,,,,,,
-minecraft:cooked_mutton,,,,,,
+minecraft:mutton,,Mundane,None,"Raw, Meat, Cooking Ingredient",Mutton,15
+minecraft:cooked_mutton,,Common,None,"Cooked, Meat",Mutton,35
 minecraft:white_banner,,,,,,
 minecraft:orange_banner,,,,,,
 minecraft:magenta_banner,,,,,,
@@ -1099,7 +1099,7 @@ minecraft:chorus_fruit,,,,,,
 minecraft:popped_chorus_fruit,,,,,,
 minecraft:torchflower_seeds,,,,,,
 minecraft:pitcher_pod,,,,,,
-minecraft:beetroot,,,,,,
+minecraft:beetroot,,Mundane,None,Vegetarian,Beetroot,5
 minecraft:beetroot_seeds,,,,,,
 minecraft:beetroot_soup,,,,,,
 minecraft:dragon_breath,,,,,,
@@ -1135,7 +1135,7 @@ minecraft:phantom_membrane,,,,,,
 minecraft:nautilus_shell,,,,,,
 minecraft:heart_of_the_sea,,,,,,
 minecraft:crossbow,,,,,,
-minecraft:suspicious_stew,,,,,,
+minecraft:suspicious_stew,,Curious,None,"Suspicious, Vegetarian, Meal",Stew,75
 minecraft:loom,,,,,,
 minecraft:flower_banner_pattern,,,,,,
 minecraft:creeper_banner_pattern,,,,,,
@@ -1156,15 +1156,15 @@ minecraft:stonecutter,,,,,,
 minecraft:bell,,,,,,
 minecraft:lantern,,,,,,
 minecraft:soul_lantern,,,,,,
-minecraft:sweet_berries,,,,,,
-minecraft:glow_berries,,,,,,
+minecraft:sweet_berries,,Mundane,None,"Berry, Natural",Berry,5
+minecraft:glow_berries,,Mundane,None,"Berry, Natural",Berry,5
 minecraft:campfire,,,,,,
 minecraft:soul_campfire,,,,,,
 minecraft:shroomlight,,,,,,
 minecraft:honeycomb,,,,,,
 minecraft:bee_nest,,,,,,
 minecraft:beehive,,,,,,
-minecraft:honey_bottle,,,,,,
+minecraft:honey_bottle,,Common,None,"Anti-Venom, Honey, Bottle",Honey,65
 minecraft:honeycomb_block,,,,,,
 minecraft:lodestone,,,,,,
 minecraft:crying_obsidian,,,,,,
