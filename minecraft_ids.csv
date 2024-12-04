@@ -783,11 +783,11 @@ minecraft:golden_shovel,,Uncommon,Tool,"Golden, Metal, Shovel, Tool",Gold,1204
 minecraft:golden_pickaxe,,Uncommon,Tool,"Golden, Metal, Pickaxe, Tool",Gold,3604
 minecraft:golden_axe,,Uncommon,Tool,"Golden, Metal, Axe, Weapon, Tool",Gold,3604
 minecraft:golden_hoe,,Uncommon,Tool,"Golden, Metal, Hoe, Tool",Gold,2404
-minecraft:iron_sword,,Common,Sword,"Metal, Iron, Sword, Weapon",Iron,602
-minecraft:iron_shovel,,Common,Tool,"Iron, Metal, Shovel, Tool",Iron,304
-minecraft:iron_pickaxe,,Common,Tool,"Iron, Metal, Pickaxe, Tool",Iron,904
-minecraft:iron_axe,,Common,Tool,"Iron, Metal, Axe, Weapon, Tool",Iron,904
-minecraft:iron_hoe,,Common,Tool,"Iron, Metal, Hoe, Tool",Iron,604
+minecraft:iron_sword,,Uncommon,Sword,"Metal, Iron, Sword, Weapon",Iron,602
+minecraft:iron_shovel,,Uncommon,Tool,"Iron, Metal, Shovel, Tool",Iron,304
+minecraft:iron_pickaxe,,Uncommon,Tool,"Iron, Metal, Pickaxe, Tool",Iron,904
+minecraft:iron_axe,,Uncommon,Tool,"Iron, Metal, Axe, Weapon, Tool",Iron,904
+minecraft:iron_hoe,,Uncommon,Tool,"Iron, Metal, Hoe, Tool",Iron,604
 minecraft:diamond_sword,,Epic,Sword,"Gem, Crystal, Sword, Weapon",Diamond,29002
 minecraft:diamond_shovel,,Epic,Tool,"Gem, Crystal, Shovel, Tool",Diamond,14504
 minecraft:diamond_pickaxe,,Epic,Tool,"Gem, Crystal, Pickaxe, Tool",Diamond,43504
@@ -815,10 +815,10 @@ minecraft:chainmail_helmet,,Common,Armor,"Chain, Helmet, Armor",Chain,400
 minecraft:chainmail_chestplate,,Common,Armor,"Chain, Chestplate, Armor",Chain,640
 minecraft:chainmail_leggings,,Common,Armor,"Chain, Leggings, Armor",Chain,560
 minecraft:chainmail_boots,,Common,Armor,"Chain, Boots, Armor",Chain,320
-minecraft:iron_helmet,,Common,Armor,"Iron, Metal, Helmet, Armor",Iron,1500
-minecraft:iron_chestplate,,Common,Armor,"Iron, Metal, Chestplate, Armor",Iron,2400
-minecraft:iron_leggings,,Common,Armor,"Iron, Metal, Leggings, Armor",Iron,2100
-minecraft:iron_boots,,Common,Armor,"Iron, Metal, Boots, Armor",Iron,1200
+minecraft:iron_helmet,,Uncommon,Armor,"Iron, Metal, Helmet, Armor",Iron,1500
+minecraft:iron_chestplate,,Uncommon,Armor,"Iron, Metal, Chestplate, Armor",Iron,2400
+minecraft:iron_leggings,,Uncommon,Armor,"Iron, Metal, Leggings, Armor",Iron,2100
+minecraft:iron_boots,,Uncommon,Armor,"Iron, Metal, Boots, Armor",Iron,1200
 minecraft:diamond_helmet,,Epic,Armor,"Gem, Crystal, Helmet, Armor",Diamond,72500
 minecraft:diamond_chestplate,,Epic,Armor,"Gem, Crystal, Chestplate, Armor",Diamond,116000
 minecraft:diamond_leggings,,Epic,Armor,"Gem, Crystal, Leggings, Armor",Diamond,101500
@@ -832,8 +832,8 @@ minecraft:netherite_chestplate,,,,,,
 minecraft:netherite_leggings,,,,,,
 minecraft:netherite_boots,,,,,,
 minecraft:flint,,,,,,
-minecraft:porkchop,,Mundane,,"Raw, Meat, Cooking Ingredient",Porkchop,
-minecraft:cooked_porkchop,,Common,,"Cooked, Meat",Porkchop,
+minecraft:porkchop,,Mundane,None,"Raw, Meat, Cooking Ingredient",Porkchop,
+minecraft:cooked_porkchop,,Common,None,"Cooked, Meat",Porkchop,
 minecraft:painting,,,,,,
 minecraft:golden_apple,,,,,,
 minecraft:enchanted_golden_apple,,,,,,
@@ -1067,7 +1067,7 @@ minecraft:rabbit,,Mundane,None,"Raw, Meat, Cooking Ingredient",Rabbit,20
 minecraft:cooked_rabbit,,Common,None,"Cooked, Meat",Rabbit,30
 minecraft:rabbit_stew,,Uncommon,None,"Cooked, Meat",Rabbit,60
 minecraft:rabbit_foot,,,,,,
-minecraft:rabbit_hide,,,,,Leather,
+minecraft:rabbit_hide,,Mundane,None,"Leather, Natural",Leather,8.75
 minecraft:armor_stand,,,,,,
 minecraft:iron_horse_armor,,,,,,
 minecraft:golden_horse_armor,,,,,,
