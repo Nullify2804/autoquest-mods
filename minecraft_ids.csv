@@ -327,7 +327,7 @@ minecraft:red_mushroom_block,,,,,,
 minecraft:mushroom_stem,,,,,,
 minecraft:iron_bars,,,,,,
 minecraft:chain,,Common,None,"Iron, Metal, Decoration",,
-minecraft:glass_pane,,,,,,
+minecraft:glass_pane,,Common,None,Transparent,Glass,11
 minecraft:melon,,,,,,
 minecraft:vine,,,,,,
 minecraft:glow_lichen,,,,,,
@@ -440,38 +440,38 @@ minecraft:rose_bush,,,,,,
 minecraft:peony,,,,,,
 minecraft:tall_grass,,,,,,
 minecraft:large_fern,,,,,,
-minecraft:white_stained_glass,,,,,,
-minecraft:orange_stained_glass,,,,,,
-minecraft:magenta_stained_glass,,,,,,
-minecraft:light_blue_stained_glass,,,,,,
-minecraft:yellow_stained_glass,,,,,,
-minecraft:lime_stained_glass,,,,,,
-minecraft:pink_stained_glass,,,,,,
-minecraft:gray_stained_glass,,,,,,
-minecraft:light_gray_stained_glass,,,,,,
-minecraft:cyan_stained_glass,,,,,,
-minecraft:purple_stained_glass,,,,,,
-minecraft:blue_stained_glass,,,,,,
-minecraft:brown_stained_glass,,,,,,
-minecraft:green_stained_glass,,,,,,
-minecraft:red_stained_glass,,,,,,
-minecraft:black_stained_glass,,,,,,
-minecraft:white_stained_glass_pane,,,,,,
-minecraft:orange_stained_glass_pane,,,,,,
-minecraft:magenta_stained_glass_pane,,,,,,
-minecraft:light_blue_stained_glass_pane,,,,,,
-minecraft:yellow_stained_glass_pane,,,,,,
-minecraft:lime_stained_glass_pane,,,,,,
-minecraft:pink_stained_glass_pane,,,,,,
-minecraft:gray_stained_glass_pane,,,,,,
-minecraft:light_gray_stained_glass_pane,,,,,,
-minecraft:cyan_stained_glass_pane,,,,,,
-minecraft:purple_stained_glass_pane,,,,,,
-minecraft:blue_stained_glass_pane,,,,,,
-minecraft:brown_stained_glass_pane,,,,,,
-minecraft:green_stained_glass_pane,,,,,,
-minecraft:red_stained_glass_pane,,,,,,
-minecraft:black_stained_glass_pane,,,,,,
+minecraft:white_stained_glass,,Curious,None,"White Color, Transparent",Glass,35
+minecraft:orange_stained_glass,,Curious,None,"Orange Color, Transparent",Glass,35
+minecraft:magenta_stained_glass,,Curious,None,"Magenta Color, Transparent",Glass,35
+minecraft:light_blue_stained_glass,,Curious,None,"Light Blue Color, Transparent",Glass,35
+minecraft:yellow_stained_glass,,Curious,None,"Yellows Color, Transparent",Glass,35
+minecraft:lime_stained_glass,,Curious,None,"Lime Color, Transparent",Glass,35
+minecraft:pink_stained_glass,,Curious,None,"Pink Color, Transparent",Glass,35
+minecraft:gray_stained_glass,,Curious,None,"Gray Color, Transparent",Glass,35
+minecraft:light_gray_stained_glass,,Curious,None,"Light Gray Color, Transparent",Glass,35
+minecraft:cyan_stained_glass,,Curious,None,"Cyan Color, Transparent",Glass,35
+minecraft:purple_stained_glass,,Curious,None,"Purple Color, Transparent",Glass,35
+minecraft:blue_stained_glass,,Curious,None,"Blue Color, Transparent",Glass,35
+minecraft:brown_stained_glass,,Curious,None,"Brown Color, Transparent",Glass,35
+minecraft:green_stained_glass,,Curious,None,"Green Color, Transparent",Glass,35
+minecraft:red_stained_glass,,Curious,None,"Red Color, Transparent",Glass,35
+minecraft:black_stained_glass,,Curious,None,"Black Color, Transparent",Glass,35
+minecraft:white_stained_glass_pane,,Curious,None,"White Color, Transparent",Glass,13
+minecraft:orange_stained_glass_pane,,Curious,None,"Orange Color, Transparent",Glass,13
+minecraft:magenta_stained_glass_pane,,Curious,None,"Magenta Color, Transparent",Glass,13
+minecraft:light_blue_stained_glass_pane,,Curious,None,"Light Blue Color, Transparent",Glass,13
+minecraft:yellow_stained_glass_pane,,Curious,None,"Yellows Color, Transparent",Glass,13
+minecraft:lime_stained_glass_pane,,Curious,None,"Lime Color, Transparent",Glass,13
+minecraft:pink_stained_glass_pane,,Curious,None,"Pink Color, Transparent",Glass,13
+minecraft:gray_stained_glass_pane,,Curious,None,"Gray Color, Transparent",Glass,13
+minecraft:light_gray_stained_glass_pane,,Curious,None,"Light Gray Color, Transparent",Glass,13
+minecraft:cyan_stained_glass_pane,,Curious,None,"Cyan Color, Transparent",Glass,13
+minecraft:purple_stained_glass_pane,,Curious,None,"Purple Color, Transparent",Glass,13
+minecraft:blue_stained_glass_pane,,Curious,None,"Blue Color, Transparent",Glass,13
+minecraft:brown_stained_glass_pane,,Curious,None,"Brown Color, Transparent",Glass,13
+minecraft:green_stained_glass_pane,,Curious,None,"Green Color, Transparent",Glass,13
+minecraft:red_stained_glass_pane,,Curious,None,"Red Color, Transparent",Glass,13
+minecraft:black_stained_glass_pane,,Curious,None,"Black Color, Transparent",Glass,13
 minecraft:prismarine,,,,,,
 minecraft:prismarine_bricks,,,,,,
 minecraft:dark_prismarine,,,,,,
