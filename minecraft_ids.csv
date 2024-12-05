@@ -42,7 +42,7 @@ minecraft:dark_oak_sapling,,Common,None,"Wooden, Plant",Saplings,8
 minecraft:mangrove_propagule,,Common,None,"Wooden, Plant",Saplings,8
 minecraft:sand,,Mundane,None,"Dirty, Aggregates",Sand,6
 minecraft:red_sand,,Common,None,"Dirty, Aggregates, Red Color",Sand,7
-minecraft:gravel,,Mundane,None,"Dirty, Aggregates",Sand,4
+minecraft:gravel,,Mundane,None,"Dirty, Aggregates",Stone,4
 minecraft:air,Comment,"Ores are to be 1.35x the price of the raw equivalent, deepslate are to be 1.1x",,,raw equivalent,
 minecraft:coal_ore,,Mundane,None,"Stony, Ore, Coal, Gem",Coal,47
 minecraft:deepslate_coal_ore,,Mundane,None,"Stony, Ore, Coal, Deep, Gem",Coal,51
@@ -174,20 +174,20 @@ minecraft:flowering_azalea,,Curious,None,"Plant, Natural, Flower",Plants,25
 minecraft:dead_bush,,Mundane,None,Plant,Plants,1
 minecraft:seagrass,,Mundane,None,"Plant, Natural, Wet",Plants,3
 minecraft:sea_pickle,,Curious,None,"Plant, Light-Emitting, Wet",Plants,35
-minecraft:white_wool,,Common,None,"Fiber, White Color",Wool,80
-minecraft:orange_wool,,Common,None,"Fiber, Orange Color",Wool,80
-minecraft:magenta_wool,,Common,None,"Fiber, Magenta Color",Wool,80
-minecraft:light_blue_wool,,Common,None,"Fiber, Light Blue Color",Wool,80
-minecraft:yellow_wool,,Common,None,"Fiber, Yellow Color",Wool,80
-minecraft:lime_wool,,Common,None,"Fiber, Lime Color",Wool,80
-minecraft:pink_wool,,Common,None,"Fiber, Pink Color",Wool,80
-minecraft:gray_wool,,Common,None,"Fiber, Gray Color",Wool,80
-minecraft:light_gray_wool,,Common,None,"Fiber, Light Gray Color",Wool,80
-minecraft:cyan_wool,,Common,None,"Fiber, Cyan Color",Wool,80
-minecraft:purple_wool,,Common,None,"Fiber, Purple Color",Wool,80
-minecraft:blue_wool,,Common,None,"Fiber, Blue Color",Wool,80
-minecraft:brown_wool,,Common,None,"Fiber, Brown Color",Wool,80
-minecraft:green_wool,,Common,None,"Fiber, Green Color",Wool,80
+minecraft:white_wool,,Common,None,"Fiber, White Color",Wool,40
+minecraft:orange_wool,,Common,None,"Fiber, Orange Color",Wool,40
+minecraft:magenta_wool,,Common,None,"Fiber, Magenta Color",Wool,40
+minecraft:light_blue_wool,,Common,None,"Fiber, Light Blue Color",Wool,40
+minecraft:yellow_wool,,Common,None,"Fiber, Yellow Color",Wool,40
+minecraft:lime_wool,,Common,None,"Fiber, Lime Color",Wool,40
+minecraft:pink_wool,,Common,None,"Fiber, Pink Color",Wool,40
+minecraft:gray_wool,,Common,None,"Fiber, Gray Color",Wool,40
+minecraft:light_gray_wool,,Common,None,"Fiber, Light Gray Color",Wool,40
+minecraft:cyan_wool,,Common,None,"Fiber, Cyan Color",Wool,40
+minecraft:purple_wool,,Common,None,"Fiber, Purple Color",Wool,40
+minecraft:blue_wool,,Common,None,"Fiber, Blue Color",Wool,40
+minecraft:brown_wool,,Common,None,"Fiber, Brown Color",Wool,40
+minecraft:green_wool,,Common,None,"Fiber, Green Color",Wool,40
 minecraft:red_wool,,Common,None,"Fiber, Red Color",Wool,80
 minecraft:black_wool,,Common,None,"Fiber, Black Color",Wool,80
 minecraft:dandelion,,Mundane,None,"Plant, Natural, Flower",Flower,15
@@ -752,7 +752,7 @@ minecraft:scute,,,,,,
 minecraft:flint_and_steel,,,,,,
 minecraft:apple,,,,,,
 minecraft:bow,,,,,,
-minecraft:arrow,,,,,,
+minecraft:arrow,,Mundane,None,"Ammo, Sharp",Arrow,5
 minecraft:coal,,Mundane,None,"Gem, Coal",Coal,30
 minecraft:charcoal,,Mundane,None,Coal,Coal,25
 minecraft:diamond,,Epic,None,Gem Diamond,Diamond,14500
@@ -801,10 +801,10 @@ minecraft:netherite_hoe,,,,,,
 minecraft:stick,,Mundane,None,"Wooden, Stick",Stick,2
 minecraft:bowl,,Mundane,None,Wooden,Wood,5
 minecraft:mushroom_stew,,Mundane,None,"Meal, Cooked",Stew,55
-minecraft:string,,,,,,
-minecraft:feather,,,,,,
-minecraft:gunpowder,,,,,,
-minecraft:wheat_seeds,,,,,,
+minecraft:string,,Mundane,None,"Fiber, Mob drop",String,10
+minecraft:feather,,Mundane,None,"Fiber, Lightweight",Feather,8
+minecraft:gunpowder,,Mundane,None,"Industrial, Mob drop, Explosive",Gunpowder,12
+minecraft:wheat_seeds,,Mundane,None,"Seed, Natural, Plant",Wheat,2
 minecraft:wheat,,Mundane,None,"Grain, Natural",Wheat,10
 minecraft:bread,,Mundane,None,"Vegetarian, Grain, Baked",Wheat,30
 minecraft:leather_helmet,,Mundane,Armor,"Leather, Helmet, Armor",Leather,192
@@ -831,7 +831,7 @@ minecraft:netherite_helmet,,,,,,
 minecraft:netherite_chestplate,,,,,,
 minecraft:netherite_leggings,,,,,,
 minecraft:netherite_boots,,,,,,
-minecraft:flint,,,,,,
+minecraft:flint,,Mundane,None,"Sharp, Stony",Stone,9
 minecraft:porkchop,,Mundane,None,"Raw, Meat, Cooking Ingredient",Porkchop,20
 minecraft:cooked_porkchop,,Common,None,"Cooked, Meat",Porkchop,45
 minecraft:painting,,,,,,
