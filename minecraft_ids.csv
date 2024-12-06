@@ -352,19 +352,19 @@ minecraft:end_stone_bricks,,,,,,
 minecraft:dragon_egg,,,,,,
 minecraft:sandstone_stairs,,,,,,
 minecraft:ender_chest,,,,,,
-minecraft:emerald_block,,,,,,
-minecraft:oak_stairs,,,,,,
-minecraft:spruce_stairs,,,,,,
-minecraft:birch_stairs,,,,,,
-minecraft:jungle_stairs,,,,,,
-minecraft:acacia_stairs,,,,,,
-minecraft:cherry_stairs,,,,,,
-minecraft:dark_oak_stairs,,,,,,
-minecraft:mangrove_stairs,,,,,,
-minecraft:bamboo_stairs,,,,,,
-minecraft:bamboo_mosaic_stairs,,,,,,
-minecraft:crimson_stairs,,,,,,
-minecraft:warped_stairs,,,,,,
+minecraft:emerald_block,,Epic,None,"Emerald, Gem, Compressed",Emerald,900
+minecraft:oak_stairs,,Mundane,None,"Wooden, Stair",Wood,5
+minecraft:spruce_stairs,,Mundane,None,"Wooden, Stair",Wood,5
+minecraft:birch_stairs,,Mundane,None,"Wooden, Stair",Wood,5
+minecraft:jungle_stairs,,Mundane,None,"Wooden, Stair",Wood,5
+minecraft:acacia_stairs,,Mundane,None,"Wooden, Stair",Wood,5
+minecraft:cherry_stairs,,Mundane,None,"Wooden, Stair",Wood,5
+minecraft:dark_oak_stairs,,Mundane,None,"Wooden, Stair",Wood,5
+minecraft:mangrove_stairs,,Mundane,None,"Wooden, Stair",Wood,5
+minecraft:bamboo_stairs,,Mundane,None,"Wooden, Stair",Wood,9
+minecraft:bamboo_mosaic_stairs,,Mundane,None,"Wooden, Stair",Wood,12
+minecraft:crimson_stairs,Nether,Mundane,None,"Wooden, Stair, Hellish",Wood,7
+minecraft:warped_stairs,Nether,Mundane,None,"Wooden, Stair, Hellish",Wood,7
 minecraft:beacon,,,,,,
 minecraft:cobblestone_wall,,,,,,
 minecraft:mossy_cobblestone_wall,,,,,,a910
