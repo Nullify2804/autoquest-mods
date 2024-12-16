@@ -224,18 +224,18 @@ minecraft:hanging_roots,,Mundane,None,"Natural, Dirty, Wooden",Roots,2
 minecraft:big_dripleaf,,Common,None,"Plant, Natural, Wet",Dripleaf,10
 minecraft:small_dripleaf,,Common,None,"Plant, Natural, Wet",Dripleaf,20
 minecraft:bamboo,,Mundane,None,"Wooden, Stick",Bamboo,2
-minecraft:oak_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
-minecraft:spruce_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
-minecraft:birch_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
-minecraft:jungle_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
-minecraft:acacia_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
-minecraft:cherry_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
-minecraft:dark_oak_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
-minecraft:mangrove_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,5
-minecraft:bamboo_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,4
-minecraft:bamboo_mosaic_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,6
-minecraft:crimson_slab,Nether,Mundane,None,"Wooden, Planks, Slab, Hellish",Planks,6
-minecraft:warped_slab,Nether,Mundane,None,"Wooden, Planks, Slab, Hellish",Planks,6
+minecraft:oak_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
+minecraft:spruce_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
+minecraft:birch_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
+minecraft:jungle_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
+minecraft:acacia_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
+minecraft:cherry_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
+minecraft:dark_oak_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
+minecraft:mangrove_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
+minecraft:bamboo_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,2
+minecraft:bamboo_mosaic_slab,,Mundane,None,"Wooden, Planks, Slab",Planks,3
+minecraft:crimson_slab,Nether,Mundane,None,"Wooden, Planks, Slab, Hellish",Planks,3
+minecraft:warped_slab,Nether,Mundane,None,"Wooden, Planks, Slab, Hellish",Planks,3
 minecraft:stone_slab,,Mundane,None,"Stony, Slab",Stone,1
 minecraft:smooth_stone_slab,,Common,None,"Stony, Slab",Stone,3
 minecraft:sandstone_slab,,Mundane,None,"Bricks, Aggregates",Sand,4
@@ -270,7 +270,7 @@ minecraft:purpur_pillar,,,,,,
 minecraft:purpur_stairs,,,,,,
 minecraft:spawner,,,,,,
 minecraft:chest,,,,,,
-minecraft:crafting_table,,,,,,
+minecraft:crafting_table,,Mundane,None,"Wooden, Utility",Crafting Station,20
 minecraft:farmland,,,,,,
 minecraft:furnace,,,,,,
 minecraft:ladder,,,,,,
@@ -278,7 +278,7 @@ minecraft:cobblestone_stairs,,,,,,
 minecraft:snow,,,,,,
 minecraft:ice,,,,,,
 minecraft:snow_block,,,,,,
-minecraft:cactus,,,,,,
+minecraft:cactus,,Mundane,None,"Natural, Plant, Trap Component",Plants,8
 minecraft:clay,,Mundane,None,"Dirty, Natural, Wet, Compressed",Clay,20
 minecraft:jukebox,,,,,,
 minecraft:oak_fence,,,,,,
@@ -801,9 +801,9 @@ minecraft:netherite_hoe,,,,,,
 minecraft:stick,,Mundane,None,"Wooden, Stick",Stick,2
 minecraft:bowl,,Mundane,None,Wooden,Wood,5
 minecraft:mushroom_stew,,Mundane,None,"Meal, Cooked",Stew,55
-minecraft:string,,Mundane,None,"Fiber, Mob drop",String,10
+minecraft:string,,Mundane,None,"Fiber, Mob Drop",String,10
 minecraft:feather,,Mundane,None,"Fiber, Lightweight",Feather,8
-minecraft:gunpowder,,Mundane,None,"Industrial, Mob drop, Explosive",Gunpowder,12
+minecraft:gunpowder,,Mundane,None,"Industrial, Mob Drop, Explosive",Gunpowder,12
 minecraft:wheat_seeds,,Mundane,None,"Seed, Natural, Plant",Wheat,2
 minecraft:wheat,,Mundane,None,"Grain, Natural",Wheat,10
 minecraft:bread,,Mundane,None,"Vegetarian, Grain, Baked",Wheat,30
@@ -942,7 +942,7 @@ minecraft:beef,,Mundane,None,"Raw, Meat, Cooking Ingredient",Beef,20
 minecraft:cooked_beef,,Common,None,"Cooked, Meat",Beef,45
 minecraft:chicken,,Mundane,None,"Raw, Meat, Cooking Ingredient",Chicken,10
 minecraft:cooked_chicken,,Common,None,"Cooked, Meat",Chicken,35
-minecraft:rotten_flesh,,,,,,
+minecraft:rotten_flesh,,Mundane,None,"Meat, Poisonous, Mob Drop",Rotten Flesh,5
 minecraft:ender_pearl,,,,,,
 minecraft:blaze_rod,,,,,,
 minecraft:ghast_tear,,,,,,
@@ -1067,7 +1067,7 @@ minecraft:rabbit,,Mundane,None,"Raw, Meat, Cooking Ingredient",Rabbit,20
 minecraft:cooked_rabbit,,Common,None,"Cooked, Meat",Rabbit,30
 minecraft:rabbit_stew,,Uncommon,None,"Cooked, Meat",Rabbit,60
 minecraft:rabbit_foot,,,,,,
-minecraft:rabbit_hide,,Mundane,None,"Leather, Natural",Leather,8.75
+minecraft:rabbit_hide,,Mundane,None,"Leather, Natural",Leather,"8,75"
 minecraft:armor_stand,,,,,,
 minecraft:iron_horse_armor,,,,,,
 minecraft:golden_horse_armor,,,,,,
