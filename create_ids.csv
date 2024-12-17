@@ -153,9 +153,9 @@ create:sweet_roll,,,,,,
 create:chocolate_glazed_berries,,,,,,
 create:honeyed_apple,,,,,,
 create:builders_tea,,,,,,
-create:raw_zinc,,Uncommon,None,"Metal, Zinc",Zinc,120
+create:raw_zinc,,Curious,None,"Metal, Zinc",Zinc,120
 create:andesite_alloy,,,,,,
-create:zinc_ingot,,,,,,
+create:zinc_ingot,,Curious,None,"Metal, Zinc",Zinc,150
 create:brass_ingot,,,,,,
 create:chromatic_compound,,,,,,
 create:shadow_steel,,,,,,
