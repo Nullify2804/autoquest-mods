@@ -298,9 +298,9 @@ minecraft:jack_o_lantern,,,,,,
 minecraft:netherrack,Nether,Mundane,None,"Hellish, Stony",Netherrack,1
 minecraft:soul_sand,,,,,,
 minecraft:soul_soil,,,,,,
-minecraft:basalt,,,,,,
-minecraft:polished_basalt,,,,,,
-minecraft:smooth_basalt,,,,,,
+minecraft:basalt,,Mundane,None,"Stony, Deep, Hellish",Stone,4
+minecraft:polished_basalt,,Mundane,None,"Stony, Deep, Hellish, Decoration, Polished",Stone,5
+minecraft:smooth_basalt,,Mundane,None,"Stony, Deep, Hellish, Decoration",Stone,6
 minecraft:soul_torch,,,,,,
 minecraft:glowstone,,,,,,
 minecraft:infested_stone,,,,,,
@@ -946,7 +946,7 @@ minecraft:rotten_flesh,,Mundane,None,"Meat, Poisonous, Mob Drop",Rotten Flesh,5
 minecraft:ender_pearl,,,,,,
 minecraft:blaze_rod,,,,,,
 minecraft:ghast_tear,,,,,,
-minecraft:gold_nugget,,,,,,
+minecraft:gold_nugget,,Uncommon,None,"Golden, Metal, Nugget",Gold,"133,333333333333"
 minecraft:nether_wart,,,,,,
 minecraft:potion,,,,,,
 minecraft:glass_bottle,,,,,,
